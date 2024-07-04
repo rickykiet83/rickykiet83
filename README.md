@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm Kiet Pham, a passionate software engineer spec
 
 - 🎯 I’m currently an instructor at [Tedu](https://tedu.com.vn/) since 2020. Some of my courses:
   - Microservice Course: [![Microservice](https://img.shields.io/badge/Course-Microservice-blue)](https://tedu.com.vn/course-ref/49/C5D7O1.html)
-  - Terraform Mastery Course: [![Terraform](https://img.shields.io/badge/Course-Terraform-orange)](https://tedu.com.vn/khoa-hoc/terraform-mastery-tren-cloud-azure-tu-co-ban-den-nang-cao-52.html)
+  - Terraform Mastery Course: [![Terraform](https://img.shields.io/badge/Course-Terraform-orange)](https://tedu.com.vn/course-ref/52/C5D7O1.html)
+  - Micro Frontend Angular Mastery [![Microfrontend](https://img.shields.io/badge/angular-red)](https://tedu.com.vn/course-ref/56/C5D7O1.html)
   - Docker Course: [![Docker](https://img.shields.io/badge/Course-Docker-blue)](https://tedu.com.vn/course-ref/42/C5D7O1.html)
   - CI/CD with Azure DevOps: [![Azure DevOps](https://img.shields.io/badge/Course-Azure%20DevOps-blue)](https://tedu.com.vn/course-ref/37/C5D7O1.html)
  
