@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Kiet Pham, a passionate software engineer spec
 
 - 💻 I specialize in building web applications with a focus on:
   - Frontend: Angular, ASP.NET Core (Blazor, MVC/Razor Pages)
-  - Backend: ASP.NET Core WebAPIs following Clean Architecture Principles
+  - Backend: ASP.NET Core WebAPIs following Ornion || Clean Architecture Principles
 
 - 🎯 I’m currently an instructor at [Tedu](https://tedu.com.vn/) since 2020. Some of my courses:
   - Microservice Course: [![Microservice](https://img.shields.io/badge/Course-Microservice-blue)](https://tedu.com.vn/course-ref/49/C5D7O1.html)
@@ -22,8 +22,12 @@ Welcome to my GitHub profile! I'm Kiet Pham, a passionate software engineer spec
 - YouTube: [![YouTube](https://img.shields.io/badge/YouTube-Kiet%20Pham-red)](https://www.youtube.com/channel/UCva4_LHR1_TH6pijsoA1Yew)
 
 ## Career aims:
-- 🦸 Work for a cool product company! [![LapisIT](https://img.shields.io/badge/Company-LapisIT-brightgreen)](https://lapisit.com.au/)
-- Transmitting knowledge and accumulated experience through real-world projects via both paid and free online courses. [Tedu](https://tedu.com.vn/) 
+- 🦸 Work for a cool product company!
+- Transmitting knowledge and accumulated experience through real-world projects via both paid and free online courses. [Tedu](https://tedu.com.vn/)
+- Becoming a solution architect in the near future.
+- Cloud certificates that I am going to get:
+   - [Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/)
+   - [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 ## Professional Skills
 
@@ -37,6 +41,7 @@ My key skills include:
 - ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 - ![Docker](https://img.shields.io/badge/Docker-blue)
 - ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange)
+- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 - ![GitHub](https://img.shields.io/badge/GitHub-black)
 
 Feel free to explore my repositories and connect with me on social media. Let's collaborate and make great software together! 🚀
