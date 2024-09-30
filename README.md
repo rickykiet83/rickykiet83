@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm Kiet Pham, a passionate software engineer spec
 - 🦸 Work for a cool product company!
 - Transmitting knowledge and accumulated experience through real-world projects via both paid and free online courses. [Tedu](https://tedu.com.vn/)
 - Becoming a solution architect in the near future.
-- Cloud certificates that I am going to get:
+- Cloud certifications I plan to obtain:
    - [Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/)
    - [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
