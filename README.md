@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Kiet Pham, a passionate software engineer spec
 
 - 💻 I specialize in building web applications with a focus on:
   - Frontend: Angular, ASP.NET Core (Blazor, MVC/Razor Pages)
-  - Backend: ASP.NET Core WebAPIs following Ornion || Clean Architecture Principles
+  - Backend: ASP.NET Core WebAPIs following Onion || Clean Architecture Principles
 
 - 🎯 I’m currently an instructor at [Tedu](https://tedu.com.vn/) since 2020. Some of my courses:
   - Microservice Course: [![Microservice](https://img.shields.io/badge/Course-Microservice-blue)](https://tedu.com.vn/course-ref/49/C5D7O1.html)
